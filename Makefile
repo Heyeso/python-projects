@@ -2,5 +2,5 @@
 start:
 	python ${arg}/${arg}.py
 # make venv // deactivate (to end venv)
-venv:
+env:
 	source venv/bin/activate
